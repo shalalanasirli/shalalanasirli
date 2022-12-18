@@ -1,5 +1,5 @@
 <h1  align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=32&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jeyhun+%F0%9F%A4%8D;I'm+FrontEnd+Developer" width="320"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=32&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shalala+%F0%9F%A4%8D;I'm+FrontEnd+Developer" width="320"> 
 </h1>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -28,19 +28,18 @@
 
 ### 📱 Contact 𝚖𝚎:
 <a href="mailto:nasirlishalala1@gmail.com" target="_blank"><img style="inline" src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://wa.me/994553047062" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%23323330?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://t.me/nasirlishalala" target="_blank"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/shalalanasirli/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 
                                                                 
 
-<a href="https://github.com/Ceyhun1999" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceyhun1999&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/nasirli1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirli1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://github.com/Ceyhun1999"><img src="https://github-readme-stats.vercel.app/api?username=Ceyhun1999&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ceyhun1999's GitHub stats" /></a>
+<a href="https://github.com/nasirli1"><img src="https://github-readme-stats.vercel.app/api?username=nasirli1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ceyhun1999's GitHub stats" /></a>
 
-<a href="https://github.com/Ceyhun1999"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceyhun1999&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/nasirli1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nasirli1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!-- <a href="https://github.com/Ceyhun1999"><img src="https://activity-graph.herokuapp.com/graph?username=Ceyhun1999&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="https://github.com/nasirli1"><img src="https://activity-graph.herokuapp.com/graph?username=nasirli1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ceyhun1999&theme=1c1917" /> -->
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasirli1&theme=1c1917" /> -->
