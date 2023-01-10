@@ -35,11 +35,11 @@
 
                                                                 
 
-<a href="https://github.com/nasirli1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirli1&langs_count=10&title_color=04706a&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/nasirli1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalalanasirli&langs_count=10&title_color=04706a&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://github.com/nasirli1"><img src="https://github-readme-stats.vercel.app/api?username=nasirli1&show_icons=true&hide=&count_private=true&title_color=04706a&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nasirli1's GitHub stats" /></a>
+<a href="https://github.com/nasirli1"><img src="https://github-readme-stats.vercel.app/api?username=shalalanasirli&show_icons=true&hide=&count_private=true&title_color=04706a&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nasirli1's GitHub stats" /></a>
 
-<a href="https://github.com/nasirli1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nasirli1&stroke=ffffff&background=1c1917&ring=04706a&fire=04706a&currStreakNum=ffffff&currStreakLabel=04706a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/nasirli1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shalalanasirli&stroke=ffffff&background=1c1917&ring=04706a&fire=04706a&currStreakNum=ffffff&currStreakLabel=04706a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!-- <a href="https://github.com/nasirli1"><img src="https://activity-graph.herokuapp.com/graph?username=nasirli1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
